@@ -3,7 +3,7 @@
 ## Installation
 
 ```
-yarn add https://github.com/ainar/react-native-sonos.git buffer events lodash react-native-network-info react-native-sonos react-native-ssdp react-native-udp stream timers xml2js
+yarn add https://github.com/ainar/react-native-sonos.git buffer events lodash react-native-network-info react-native-ssdp react-native-udp stream timers xml2js
 ```
 
 ## Usage
